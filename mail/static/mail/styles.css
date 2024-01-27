@@ -1,0 +1,26 @@
+textarea {
+    min-height: 400px;
+}
+#emails-ul{
+    list-style: none;
+    gap: 10px;
+}
+#emails-ul li a{
+    width: 100%;
+}
+#emails-ul li button{
+    background-color: rgb(243, 246, 248);margin-bottom: 1%;
+    width: 100%;
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+    padding: 1%;
+}
+#first-span{
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+}
+#first-span p{
+    margin: 0;
+}
