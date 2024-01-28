@@ -71,7 +71,6 @@ def compose(request):
 
     return JsonResponse({"message": "Email sent successfully."}, status=201)
 
-
 @login_required
 def mailbox(request, mailbox):
 
