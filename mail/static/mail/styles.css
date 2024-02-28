@@ -6,7 +6,8 @@ textarea {
     gap: 10px;
 }
 .emails-ul-li button{
-    background-color: rgb(243, 246, 248);margin-bottom: 1%;
+    background-color: rgb(243, 246, 248);
+    margin-bottom: 1%;
     width: 100%;
     text-align: left;
     display: flex;
@@ -33,4 +34,8 @@ p{
 }
 #email-div{
     display: flex;
+}
+#li-button{
+    display: flex;
+    gap: 6%;
 }
